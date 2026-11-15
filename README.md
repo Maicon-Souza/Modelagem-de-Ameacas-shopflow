@@ -51,7 +51,9 @@ shopflow-threat-model/
     ├── 01-cenario-arquitetura-dfd.md
     ├── 02-modelo-de-ameacas-stride.md
     ├── 03-plano-de-tratamento.md
-    └── 04-plano-de-validacao-e-revisao.md
+    ├── 04-plano-de-validacao-e-revisao.md
+    └── images/
+        └── dfd-shopflow.png
 ```
 
 ## Principais ameaças identificadas
