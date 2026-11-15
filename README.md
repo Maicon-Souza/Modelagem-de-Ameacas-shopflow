@@ -82,9 +82,8 @@ O plano detalhado está em [`docs/03-plano-de-tratamento.md`](docs/03-plano-de-t
 - [x] Seis categorias STRIDE analisadas.
 - [x] Estratégias e controles de tratamento propostos.
 - [x] Plano de validação definido.
-- [ ] DFD gráfico final anexado ao repositório.
-- [ ] Testes técnicos executados em ambiente de laboratório.
-- [ ] Riscos priorizados formalmente com probabilidade e impacto.
+- [X] DFD gráfico final anexado ao repositório.
+  
 
 **Importante:** os testes descritos são propostas de validação. Não devem ser interpretados como testes já executados.
 
